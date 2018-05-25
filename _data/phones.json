@@ -17,18 +17,9 @@
 			"inCall": false,
 			"noDelete": true,
 			"wwtbam": true
-		},
-		{
-			"id": "M1DhLz",
-			"name": "Tumble's Bots<#447758823931904000>",
-			"guild": "446981442443149312",
-			"channel": "447758823931904000",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 1,
 	"servers": 15,
-	"currentCalls": 1
+	"currentCalls": 0
 }
