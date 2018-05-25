@@ -19,5 +19,7 @@
 			"wwtbam": true
 		}
 	],
-	"callsMade": 0
+	"callsMade": 0,
+	"servers": 15,
+	"currnetCalls": 0
 }
