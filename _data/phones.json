@@ -35,6 +35,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "O9m6OO",
+			"name": "Russian Cykas<#422387669285339136>",
+			"guild": "420281629987307520",
+			"channel": "422387669285339136",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 2,
