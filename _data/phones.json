@@ -26,9 +26,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "0Pklur",
+			"name": "The Triple Entente<#452202507544821760>",
+			"guild": "452198527393595393",
+			"channel": "452202507544821760",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 1,
+	"callsMade": 2,
 	"servers": 17,
-	"currentCalls": 0
+	"currentCalls": 1
 }
