@@ -35,9 +35,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "SuIyzw",
+			"name": "Russian Cykas<#420690462668750849>",
+			"guild": "420281629987307520",
+			"channel": "420690462668750849",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 3,
 	"servers": 17,
-	"currentCalls": 1
+	"currentCalls": 2
 }
