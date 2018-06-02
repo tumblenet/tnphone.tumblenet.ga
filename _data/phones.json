@@ -44,9 +44,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "2VSXEz",
+			"name": "Reyy's Tavern<#452238122332323845>",
+			"guild": "366008999365050370",
+			"channel": "452238122332323845",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 6,
+	"callsMade": 7,
 	"servers": 17,
-	"currentCalls": 0
+	"currentCalls": 1
 }
