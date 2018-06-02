@@ -44,9 +44,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "3S0iLu",
+			"name": "Discord Bot List<#265156286406983680>",
+			"guild": "264445053596991498",
+			"channel": "265156286406983680",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 4,
+	"callsMade": 5,
 	"servers": 16,
-	"currentCalls": 0
+	"currentCalls": 1
 }
