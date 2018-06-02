@@ -50,21 +50,12 @@
 			"name": "Reyy's Tavern<#452238122332323845>",
 			"guild": "366008999365050370",
 			"channel": "452238122332323845",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "3pbxce",
-			"name": "Tumble Network<#449352504421908502>",
-			"guild": "337887798889545728",
-			"channel": "449352504421908502",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		}
 	],
 	"callsMade": 7,
 	"servers": 16,
-	"currentCalls": 1
+	"currentCalls": 0
 }
