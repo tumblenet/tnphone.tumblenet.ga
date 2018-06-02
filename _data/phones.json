@@ -53,9 +53,18 @@
 			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "5p995J",
+			"name": "pubg mobile[pro]<#442656727503208450>",
+			"guild": "442656727503208448",
+			"channel": "442656727503208450",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 7,
 	"servers": 16,
-	"currentCalls": 0
+	"currentCalls": 1
 }
