@@ -68,21 +68,12 @@
 			"name": "TyTy's bot heaven<#452528775716929537>",
 			"guild": "452528775213744142",
 			"channel": "452528775716929537",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "qwtkpA",
-			"name": "Tumble Network<#437304351011110912>",
-			"guild": "337887798889545728",
-			"channel": "437304351011110912",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		}
 	],
 	"callsMade": 8,
 	"servers": 19,
-	"currentCalls": 1
+	"currentCalls": 0
 }
