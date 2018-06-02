@@ -62,6 +62,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "A73LIq",
+			"name": "8-Bit Sports<#358519920507617293>",
+			"guild": "358314415734390784",
+			"channel": "358519920507617293",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 7,
