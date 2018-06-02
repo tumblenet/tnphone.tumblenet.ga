@@ -53,6 +53,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "o7azA5",
+			"name": "Discord Bot List<#265156322012561408>",
+			"guild": "264445053596991498",
+			"channel": "265156322012561408",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 6,
