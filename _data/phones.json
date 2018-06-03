@@ -62,9 +62,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "r5jD9Y",
+			"name": "Pickle Rick<#422012236161089546>",
+			"guild": "422006517458534411",
+			"channel": "422012236161089546",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 9,
+	"callsMade": 10,
 	"servers": 18,
-	"currentCalls": 1
+	"currentCalls": 2
 }
