@@ -71,18 +71,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "olqqi4",
-			"name": "TumbleCraft Beta<#441158598937018370>",
-			"guild": "441158487939088385",
-			"channel": "441158598937018370",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 11,
 	"servers": 18,
-	"currentCalls": 1
+	"currentCalls": 0
 }
