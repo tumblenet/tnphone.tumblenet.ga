@@ -71,27 +71,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "6oO1sq",
-			"name": "Tumble Network<#338023793333239809>",
-			"guild": "337887798889545728",
-			"channel": "338023793333239809",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "8LqQiB",
-			"name": "<p> Lodi's Discord </p><#454085393424580608>",
-			"guild": "406656930510143488",
-			"channel": "454085393424580608",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 11,
 	"servers": 17,
-	"currentCalls": 1
+	"currentCalls": 0
 }
