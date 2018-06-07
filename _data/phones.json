@@ -59,7 +59,7 @@
 			"name": "pubg mobile[pro]<#442656727503208450>",
 			"guild": "442656727503208448",
 			"channel": "442656727503208450",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		},
@@ -71,18 +71,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "rzactY",
-			"name": "Tumble Network<#337887798889545728>",
-			"guild": "337887798889545728",
-			"channel": "337887798889545728",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 12,
 	"servers": 17,
-	"currentCalls": 1
+	"currentCalls": 0
 }
