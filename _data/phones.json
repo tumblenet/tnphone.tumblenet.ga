@@ -71,18 +71,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "9BKOox",
-			"name": "Tumble Network<#449352504421908502>",
-			"guild": "337887798889545728",
-			"channel": "449352504421908502",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 14,
 	"servers": 17,
-	"currentCalls": 1
+	"currentCalls": 0
 }
