@@ -62,18 +62,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "5yZalG",
-			"name": "Androids™<#456018599329660928>",
-			"guild": "455968623689728002",
-			"channel": "456018599329660928",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 17,
 	"servers": 18,
-	"currentCalls": 1
+	"currentCalls": 0
 }
