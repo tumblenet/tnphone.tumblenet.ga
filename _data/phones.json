@@ -62,9 +62,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "fvjCG8",
+			"name": "Arcadia, Our Paradise<#456621909950332929>",
+			"guild": "455533360513810433",
+			"channel": "456621909950332929",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 15,
+	"callsMade": 16,
 	"servers": 17,
-	"currentCalls": 0
+	"currentCalls": 1
 }
