@@ -62,9 +62,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "fBPCbP",
+			"name": "Moose's Hangout<#178646465839628288>",
+			"guild": "178646465839628288",
+			"channel": "178646465839628288",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 17,
+	"callsMade": 18,
 	"servers": 18,
-	"currentCalls": 0
+	"currentCalls": 1
 }
