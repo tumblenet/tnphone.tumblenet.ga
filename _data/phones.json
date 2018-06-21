@@ -80,9 +80,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "xYFtsD",
+			"name": "Bots test<#459370531242901504>",
+			"guild": "406880996370415626",
+			"channel": "459370531242901504",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 20,
+	"callsMade": 21,
 	"servers": 20,
-	"currentCalls": 0
+	"currentCalls": 1
 }
