@@ -71,18 +71,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "xLWDiY",
-			"name": "lol<#451645103933620239>",
-			"guild": "451645103405268994",
-			"channel": "451645103933620239",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 19,
 	"servers": 18,
-	"currentCalls": 1
+	"currentCalls": 0
 }
