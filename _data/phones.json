@@ -80,18 +80,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "rZFher",
-			"name": "Discord Police Station<#462030609850564630>",
-			"guild": "462030609850564628",
-			"channel": "462030609850564630",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 23,
 	"servers": 20,
-	"currentCalls": 1
+	"currentCalls": 0
 }
