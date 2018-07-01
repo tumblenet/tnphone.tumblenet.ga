@@ -80,9 +80,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "Hms2l3",
+			"name": "Bot Mania V2<#463042037088911370>",
+			"guild": "461780535140941844",
+			"channel": "463042037088911370",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 25,
+	"callsMade": 26,
 	"servers": 21,
-	"currentCalls": 0
+	"currentCalls": 1
 }
