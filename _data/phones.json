@@ -80,9 +80,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "Ieins7",
+			"name": "Bot Mania V2<#463042037088911370>",
+			"guild": "461780535140941844",
+			"channel": "463042037088911370",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 23,
+	"callsMade": 24,
 	"servers": 20,
-	"currentCalls": 0
+	"currentCalls": 1
 }
