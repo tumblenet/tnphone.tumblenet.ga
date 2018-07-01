@@ -89,9 +89,18 @@
 			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "RWKBe4",
+			"name": "Game.exe Hangout<#461660530478678026>",
+			"guild": "425060332424396802",
+			"channel": "461660530478678026",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 26,
+	"callsMade": 27,
 	"servers": 21,
-	"currentCalls": 0
+	"currentCalls": 1
 }
