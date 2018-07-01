@@ -82,25 +82,16 @@
 			"wwtbam": false
 		},
 		{
-			"id": "nwpKT8",
-			"name": "Bot Mania V2<#463042037088911370>",
-			"guild": "461780535140941844",
-			"channel": "463042037088911370",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
 			"id": "2frBXA",
 			"name": "Game.exe Hangout<#461609945847169033>",
 			"guild": "425060332424396802",
 			"channel": "461609945847169033",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		}
 	],
 	"callsMade": 25,
 	"servers": 21,
-	"currentCalls": 2
+	"currentCalls": 1
 }
