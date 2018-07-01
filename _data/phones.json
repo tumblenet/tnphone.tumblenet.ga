@@ -80,15 +80,6 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "2frBXA",
-			"name": "Game.exe Hangout<#461609945847169033>",
-			"guild": "425060332424396802",
-			"channel": "461609945847169033",
-			"inCall": false,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 25,
