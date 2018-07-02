@@ -86,7 +86,7 @@
 			"name": "Bot Mania V2<#463042037088911370>",
 			"guild": "461780535140941844",
 			"channel": "463042037088911370",
-			"inCall": false,
+			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
 		},
@@ -100,7 +100,7 @@
 			"wwtbam": false
 		}
 	],
-	"callsMade": 27,
+	"callsMade": 28,
 	"servers": 22,
-	"currentCalls": 0
+	"currentCalls": 1
 }
