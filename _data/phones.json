@@ -89,9 +89,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "uy36t3",
+			"name": "Bot Mania V2<#463042037088911370>",
+			"guild": "461780535140941844",
+			"channel": "463042037088911370",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 28,
+	"callsMade": 29,
 	"servers": 22,
-	"currentCalls": 0
+	"currentCalls": 1
 }
