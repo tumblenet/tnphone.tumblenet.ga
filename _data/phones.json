@@ -98,9 +98,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "W8SWv2",
+			"name": "Bot Mania V2<#463160963386834945>",
+			"guild": "461780535140941844",
+			"channel": "463160963386834945",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 30,
+	"callsMade": 31,
 	"servers": 22,
-	"currentCalls": 0
+	"currentCalls": 1
 }
