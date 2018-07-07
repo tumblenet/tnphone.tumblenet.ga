@@ -116,6 +116,15 @@
 			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "SJDiPn",
+			"name": "The Bot Farms<#401796595235946506>",
+			"guild": "401126058243522560",
+			"channel": "401796595235946506",
+			"inCall": false,
+			"noDelete": true,
+			"wwtbam": true
 		}
 	],
 	"callsMade": 33,
