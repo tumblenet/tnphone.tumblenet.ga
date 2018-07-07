@@ -109,15 +109,6 @@
 			"wwtbam": false
 		},
 		{
-			"id": "EeMk5W",
-			"name": "The Bot Farms<#401796595235946506>",
-			"guild": "401126058243522560",
-			"channel": "401796595235946506",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
 			"id": "gvXlXZ",
 			"name": "windows 10 november update PROTOGENT EDITION<#464477208216469526>",
 			"guild": "464256297148350467",
@@ -129,5 +120,5 @@
 	],
 	"callsMade": 34,
 	"servers": 22,
-	"currentCalls": 2
+	"currentCalls": 1
 }
