@@ -107,9 +107,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "EeMk5W",
+			"name": "The Bot Farms<#401796595235946506>",
+			"guild": "401126058243522560",
+			"channel": "401796595235946506",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 33,
+	"callsMade": 34,
 	"servers": 22,
-	"currentCalls": 0
+	"currentCalls": 1
 }
