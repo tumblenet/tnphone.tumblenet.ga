@@ -107,15 +107,6 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "gvXlXZ",
-			"name": "windows 10 november update PROTOGENT EDITION<#464477208216469526>",
-			"guild": "464256297148350467",
-			"channel": "464477208216469526",
-			"inCall": false,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 34,
