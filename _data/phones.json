@@ -113,21 +113,12 @@
 			"name": "windows 10 november update PROTOGENT EDITION<#464477208216469526>",
 			"guild": "464256297148350467",
 			"channel": "464477208216469526",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "4o53yU",
-			"name": "The Bot Farms<#401796595235946506>",
-			"guild": "401126058243522560",
-			"channel": "401796595235946506",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		}
 	],
 	"callsMade": 34,
 	"servers": 22,
-	"currentCalls": 1
+	"currentCalls": 0
 }
