@@ -116,9 +116,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "MaGS1h",
+			"name": "Scammer trolls<#465358015181226004>",
+			"guild": "464256297148350467",
+			"channel": "465358015181226004",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 34,
+	"callsMade": 35,
 	"servers": 22,
-	"currentCalls": 0
+	"currentCalls": 1
 }
