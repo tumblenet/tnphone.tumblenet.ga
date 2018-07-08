@@ -122,21 +122,12 @@
 			"name": "The Bot Farms<#401796595235946506>",
 			"guild": "401126058243522560",
 			"channel": "401796595235946506",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "Z85cm1",
-			"name": "Scammer trolls<#465358015181226004>",
-			"guild": "464256297148350467",
-			"channel": "465358015181226004",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		}
 	],
 	"callsMade": 35,
 	"servers": 22,
-	"currentCalls": 1
+	"currentCalls": 0
 }
