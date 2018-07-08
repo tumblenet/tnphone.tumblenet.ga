@@ -125,9 +125,18 @@
 			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "BY71tB",
+			"name": "Scammer trolls<#465358015181226004>",
+			"guild": "464256297148350467",
+			"channel": "465358015181226004",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 35,
+	"callsMade": 36,
 	"servers": 22,
-	"currentCalls": 0
+	"currentCalls": 1
 }
