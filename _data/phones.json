@@ -116,9 +116,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "OuPCXM",
+			"name": "Scammer trolls<#465358018712698891>",
+			"guild": "464256297148350467",
+			"channel": "465358018712698891",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 40,
+	"callsMade": 41,
 	"servers": 21,
-	"currentCalls": 0
+	"currentCalls": 1
 }
