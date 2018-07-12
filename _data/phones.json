@@ -107,18 +107,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "H3cDCQ",
-			"name": "Just a place for chatting<#453196912992976900>",
-			"guild": "385402797174161411",
-			"channel": "453196912992976900",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 48,
 	"servers": 23,
-	"currentCalls": 1
+	"currentCalls": 0
 }
