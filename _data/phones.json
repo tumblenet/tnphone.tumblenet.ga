@@ -107,9 +107,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "KBEOiI",
+			"name": "McMattFaces<#455268290198110209>",
+			"guild": "453366973321969674",
+			"channel": "455268290198110209",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 49,
+	"callsMade": 50,
 	"servers": 23,
-	"currentCalls": 0
+	"currentCalls": 1
 }
