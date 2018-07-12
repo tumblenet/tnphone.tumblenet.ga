@@ -116,6 +116,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "DKKsQF",
+			"name": "McMattFaces<#455268290198110209>",
+			"guild": "453366973321969674",
+			"channel": "455268290198110209",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 47,
