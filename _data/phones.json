@@ -116,6 +116,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "N4FWPq",
+			"name": "McMattFaces<#467595711148457984>",
+			"guild": "453366973321969674",
+			"channel": "467595711148457984",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 55,
