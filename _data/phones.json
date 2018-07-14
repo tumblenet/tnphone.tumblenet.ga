@@ -107,15 +107,6 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "C8Lk5c",
-			"name": "McGM<#466114181054201857>",
-			"guild": "466114180622319637",
-			"channel": "466114181054201857",
-			"inCall": false,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 53,
