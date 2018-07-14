@@ -107,18 +107,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "osaOPT",
-			"name": "McMattFaces<#467595711148457984>",
-			"guild": "453366973321969674",
-			"channel": "467595711148457984",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 51,
 	"servers": 23,
-	"currentCalls": 1
+	"currentCalls": 0
 }
