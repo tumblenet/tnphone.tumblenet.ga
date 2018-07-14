@@ -107,9 +107,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "qiRorx",
+			"name": "Scammer trolls<#465358018712698891>",
+			"guild": "464256297148350467",
+			"channel": "465358018712698891",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 54,
+	"callsMade": 55,
 	"servers": 24,
-	"currentCalls": 0
+	"currentCalls": 1
 }
