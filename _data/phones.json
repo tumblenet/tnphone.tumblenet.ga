@@ -113,21 +113,12 @@
 			"name": "McGM<#466114181054201857>",
 			"guild": "466114180622319637",
 			"channel": "466114181054201857",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "JqireT",
-			"name": "McMattFaces<#467595711148457984>",
-			"guild": "453366973321969674",
-			"channel": "467595711148457984",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		}
 	],
 	"callsMade": 54,
 	"servers": 24,
-	"currentCalls": 1
+	"currentCalls": 0
 }
