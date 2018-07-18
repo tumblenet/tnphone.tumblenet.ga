@@ -107,9 +107,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "1IWDKk",
+			"name": "Aqua Lounge<#467899325561831425>",
+			"guild": "464901328016244736",
+			"channel": "467899325561831425",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 55,
+	"callsMade": 56,
 	"servers": 25,
-	"currentCalls": 0
+	"currentCalls": 1
 }
