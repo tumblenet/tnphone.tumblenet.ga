@@ -125,6 +125,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "MkqXON",
+			"name": "Drundle Door<#111187519919382528>",
+			"guild": "111187519919382528",
+			"channel": "111187519919382528",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 58,
