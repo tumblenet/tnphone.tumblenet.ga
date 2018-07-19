@@ -122,21 +122,12 @@
 			"name": "Tumble Network<#337887798889545728>",
 			"guild": "337887798889545728",
 			"channel": "337887798889545728",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "MkqXON",
-			"name": "Drundle Door<#111187519919382528>",
-			"guild": "111187519919382528",
-			"channel": "111187519919382528",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		}
 	],
 	"callsMade": 58,
-	"servers": 25,
-	"currentCalls": 1
+	"servers": 24,
+	"currentCalls": 0
 }
