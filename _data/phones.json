@@ -143,6 +143,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "9fhHmJ",
+			"name": "Big Dad's Gamer Zone<#307622571380047872>",
+			"guild": "211443378045452298",
+			"channel": "307622571380047872",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 69,
