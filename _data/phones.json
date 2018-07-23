@@ -134,9 +134,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "jfr1uO",
+			"name": "Big Dad's Gamer Zone<#307622571380047872>",
+			"guild": "211443378045452298",
+			"channel": "307622571380047872",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 66,
+	"callsMade": 67,
 	"servers": 24,
-	"currentCalls": 1
+	"currentCalls": 2
 }
