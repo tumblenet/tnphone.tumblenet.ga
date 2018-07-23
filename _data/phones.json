@@ -140,12 +140,12 @@
 			"name": "Big Dad's Gamer Zone<#307622571380047872>",
 			"guild": "211443378045452298",
 			"channel": "307622571380047872",
-			"inCall": false,
+			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
 		}
 	],
-	"callsMade": 64,
+	"callsMade": 65,
 	"servers": 25,
-	"currentCalls": 1
+	"currentCalls": 2
 }
