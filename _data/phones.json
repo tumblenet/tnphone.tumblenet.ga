@@ -118,20 +118,11 @@
 			"wwtbam": false
 		},
 		{
-			"id": "B5558e",
-			"name": "Tumble Network<#470963685133647872>",
-			"guild": "337887798889545728",
-			"channel": "470963685133647872",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
 			"id": "PI0bMr",
 			"name": "Tumble Network<#337887798889545728>",
 			"guild": "337887798889545728",
 			"channel": "337887798889545728",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		},
@@ -143,9 +134,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "jc7KUQ",
+			"name": "Tumble Network<#470963685133647872>",
+			"guild": "337887798889545728",
+			"channel": "470963685133647872",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 60,
 	"servers": 24,
-	"currentCalls": 2
+	"currentCalls": 1
 }
