@@ -134,27 +134,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "NfxE4x",
-			"name": "Big Dad's Gamer Zone<#307622571380047872>",
-			"guild": "211443378045452298",
-			"channel": "307622571380047872",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "Ve9T9k",
-			"name": "Tumble Network<#437656067002859520>",
-			"guild": "337887798889545728",
-			"channel": "437656067002859520",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 66,
 	"servers": 25,
-	"currentCalls": 2
+	"currentCalls": 1
 }
