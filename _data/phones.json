@@ -152,18 +152,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "X0vEtJ",
-			"name": "DiscordTesting<#446367016430075914>",
-			"guild": "379672971112873984",
-			"channel": "446367016430075914",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 73,
 	"servers": 20,
-	"currentCalls": 1
+	"currentCalls": 0
 }
