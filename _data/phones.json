@@ -161,6 +161,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "EYw6di",
+			"name": "Straw Hat Pirates<#499621496923226112>",
+			"guild": "468493758669783062",
+			"channel": "499621496923226112",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 74,
