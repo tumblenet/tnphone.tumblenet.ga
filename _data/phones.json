@@ -158,21 +158,12 @@
 			"name": "Fleet Hub<#499531139719888916>",
 			"guild": "499476683028430860",
 			"channel": "499531139719888916",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "EYw6di",
-			"name": "Straw Hat Pirates<#499621496923226112>",
-			"guild": "468493758669783062",
-			"channel": "499621496923226112",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		}
 	],
 	"callsMade": 74,
 	"servers": 21,
-	"currentCalls": 1
+	"currentCalls": 0
 }
