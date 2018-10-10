@@ -143,6 +143,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "r6XPz9",
+			"name": "Fleet Hub<#499476683464900619>",
+			"guild": "499476683028430860",
+			"channel": "499476683464900619",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 71,
