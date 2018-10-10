@@ -163,20 +163,11 @@
 			"wwtbam": false
 		},
 		{
-			"id": "JFMFp0",
-			"name": "Straw Hat Pirates<#499621496923226112>",
-			"guild": "468493758669783062",
-			"channel": "499621496923226112",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
 			"id": "eyTkXL",
 			"name": "Fleet Hub<#499628454833291275>",
 			"guild": "499476683028430860",
 			"channel": "499628454833291275",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		},
@@ -192,5 +183,5 @@
 	],
 	"callsMade": 74,
 	"servers": 21,
-	"currentCalls": 2
+	"currentCalls": 1
 }
