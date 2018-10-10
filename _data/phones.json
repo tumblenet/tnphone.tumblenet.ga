@@ -170,9 +170,18 @@
 			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "il7DSi",
+			"name": "Fleet Comms<#499633950478696448>",
+			"guild": "499476683028430860",
+			"channel": "499633950478696448",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 74,
 	"servers": 21,
-	"currentCalls": 0
+	"currentCalls": 1
 }
