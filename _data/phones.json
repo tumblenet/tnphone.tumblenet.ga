@@ -152,18 +152,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "OCJIIA",
-			"name": "TumbleNet API<#449636923741437962>",
-			"guild": "446981442443149312",
-			"channel": "449636923741437962",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 74,
 	"servers": 20,
-	"currentCalls": 1
+	"currentCalls": 0
 }
