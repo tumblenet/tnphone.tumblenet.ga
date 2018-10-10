@@ -154,15 +154,6 @@
 			"wwtbam": false
 		},
 		{
-			"id": "PBS8pA",
-			"name": "TumbleNet API<#447758823931904000>",
-			"guild": "446981442443149312",
-			"channel": "447758823931904000",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
 			"id": "3Jhw7n",
 			"name": "TumbleNet API<#449636923741437962>",
 			"guild": "446981442443149312",
@@ -174,5 +165,5 @@
 	],
 	"callsMade": 71,
 	"servers": 20,
-	"currentCalls": 2
+	"currentCalls": 1
 }
