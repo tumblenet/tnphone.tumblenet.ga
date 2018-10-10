@@ -152,9 +152,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "2oxzZD",
+			"name": "Fleet Hub<#499531139719888916>",
+			"guild": "499476683028430860",
+			"channel": "499531139719888916",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 74,
 	"servers": 20,
-	"currentCalls": 0
+	"currentCalls": 1
 }
