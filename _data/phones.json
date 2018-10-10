@@ -167,7 +167,7 @@
 			"name": "Straw Hat Pirates<#499621496923226112>",
 			"guild": "468493758669783062",
 			"channel": "499621496923226112",
-			"inCall": false,
+			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
 		},
