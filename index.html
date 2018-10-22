@@ -101,3 +101,24 @@ layout: basic
     </div>
   </div>
 </div>
+<div class="py-5 section text-center bg-light" id="reviews">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000">
+            <div class="carousel-inner" role="listbox">
+              {% for review in site.data.reviews %}
+              <div class="carousel-item active">
+                <img src="img/reviews/{{ review.name }}.png" class="img-block mx-auto my-3 d-block" width="250" data-holder-rendered="true">
+                <div class="blockquote ">
+                  <p class="m-0">{{review.text}}</p>
+                  <div class="blockquote-footer">{{ review.name }}</div>
+                </div>
+              </div>
+              {% endfor &}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
