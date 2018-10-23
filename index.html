@@ -110,7 +110,7 @@ layout: basic
             <div class="carousel-inner" role="listbox">
               {% for review in site.data.reviews %}
               <div class="carousel-item active">
-                <img src="img/reviews/{{ review.name }}.png" class="img-block mx-auto my-3 d-block" width="250" data-holder-rendered="true">
+                {% if review.image %}<img src="img/reviews/{{ review.image }}.png" class="img-block mx-auto my-3 d-block" width="250" data-holder-rendered="true">{% endif %}
                 <div class="blockquote ">
                   <p class="m-0">{{review.text}}</p>
                   <div class="blockquote-footer">{{ review.name }}</div>
