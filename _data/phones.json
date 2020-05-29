@@ -17,9 +17,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "kvTJDb",
+			"name": "Box Critters Modding Community<#716006473314074634>",
+			"guild": "567030108003631104",
+			"channel": "716006473314074634",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 1,
+	"callsMade": 2,
 	"servers": 67,
-	"currentCalls": 0
+	"currentCalls": 1
 }
