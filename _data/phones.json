@@ -8,9 +8,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "yqqbgJ",
+			"name": "Box Critters Modding Community<#715684182709501992>",
+			"guild": "567030108003631104",
+			"channel": "715684182709501992",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 1,
 	"servers": 67,
-	"currentCalls": 1
+	"currentCalls": 2
 }
