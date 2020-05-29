@@ -1,6 +1,16 @@
 {
-	"phones": [],
-	"callsMade": 0,
+	"phones": [
+		{
+			"id": "6JI0jp",
+			"name": "Box Critters Modding Community<#715682268068184104>",
+			"guild": "567030108003631104",
+			"channel": "715682268068184104",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
+		}
+	],
+	"callsMade": 1,
 	"servers": 67,
-	"currentCalls": 0
+	"currentCalls": 1
 }
