@@ -17,9 +17,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "lC4jQk",
+			"name": "test da famrmer<#728030489457197070>",
+			"guild": "728030488761204867",
+			"channel": "728030489457197070",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 2,
-	"servers": 72,
-	"currentCalls": 0
+	"callsMade": 3,
+	"servers": 73,
+	"currentCalls": 1
 }
