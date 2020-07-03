@@ -10,15 +10,6 @@
 			"wwtbam": false
 		},
 		{
-			"id": "yqqbgJ",
-			"name": "Box Critters Modding Community<#715684182709501992>",
-			"guild": "567030108003631104",
-			"channel": "715684182709501992",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
 			"id": "lC4jQk",
 			"name": "test da famrmer<#728030489457197070>",
 			"guild": "728030488761204867",
@@ -26,18 +17,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "p2KHGH",
-			"name": "Box Critters Modding Community<#716006473314074634>",
-			"guild": "567030108003631104",
-			"channel": "716006473314074634",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
-	"callsMade": 8,
+	"callsMade": 9,
 	"servers": 74,
 	"currentCalls": 1
 }
