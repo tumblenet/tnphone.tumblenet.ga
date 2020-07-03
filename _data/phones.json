@@ -26,9 +26,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "p2KHGH",
+			"name": "Box Critters Modding Community<#716006473314074634>",
+			"guild": "567030108003631104",
+			"channel": "716006473314074634",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 7,
+	"callsMade": 8,
 	"servers": 74,
-	"currentCalls": 0
+	"currentCalls": 1
 }
