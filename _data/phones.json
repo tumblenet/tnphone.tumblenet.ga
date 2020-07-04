@@ -1,43 +1,5 @@
 {
-	"phones": [
-		{
-			"id": "lC4jQk",
-			"name": "test da famrmer<#728030489457197070>",
-			"guild": "728030488761204867",
-			"channel": "728030489457197070",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "UXm8C8",
-			"name": "Vibe<#427589231179857937>",
-			"guild": "411984375995957248",
-			"channel": "427589231179857937",
-			"inCall": false,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "QxE2x2",
-			"name": "Box Critters Modding Community<#716006473314074634>",
-			"guild": "567030108003631104",
-			"channel": "716006473314074634",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
-			"id": "PvfUNh",
-			"name": "funky town<#717791854443364404>",
-			"guild": "717791853864419480",
-			"channel": "717791854443364404",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		}
-	],
 	"callsMade": 14,
 	"servers": 76,
-	"currentCalls": 1
+	"currentCalls": 0
 }
