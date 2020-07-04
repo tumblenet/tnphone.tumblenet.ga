@@ -26,6 +26,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "UJXahP",
+			"name": "Box Critters Modding Community<#567052694473146397>",
+			"guild": "567030108003631104",
+			"channel": "567052694473146397",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 11,
