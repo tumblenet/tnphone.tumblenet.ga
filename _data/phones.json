@@ -35,9 +35,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "YbaF9p",
+			"name": "funky town<#717943126228205578>",
+			"guild": "717791853864419480",
+			"channel": "717943126228205578",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 13,
+	"callsMade": 14,
 	"servers": 76,
-	"currentCalls": 1
+	"currentCalls": 2
 }
