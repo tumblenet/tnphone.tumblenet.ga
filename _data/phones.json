@@ -5,7 +5,7 @@
 			"name": "Box Critters Modding Community<#715682268068184104>",
 			"guild": "567030108003631104",
 			"channel": "715682268068184104",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": true,
 			"wwtbam": false
 		},
@@ -35,18 +35,9 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
-		},
-		{
-			"id": "TeC5O8",
-			"name": "funky town<#717791854443364404>",
-			"guild": "717791853864419480",
-			"channel": "717791854443364404",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
 		}
 	],
 	"callsMade": 12,
 	"servers": 76,
-	"currentCalls": 2
+	"currentCalls": 1
 }
