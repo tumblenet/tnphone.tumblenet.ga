@@ -6,7 +6,7 @@
 			"guild": "567030108003631104",
 			"channel": "715682268068184104",
 			"inCall": true,
-			"noDelete": false,
+			"noDelete": true,
 			"wwtbam": false
 		},
 		{
