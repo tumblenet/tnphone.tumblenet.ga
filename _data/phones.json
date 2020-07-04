@@ -37,15 +37,6 @@
 			"wwtbam": false
 		},
 		{
-			"id": "m0XkKk",
-			"name": "Box Critters Modding Community<#710902583685808218>",
-			"guild": "567030108003631104",
-			"channel": "710902583685808218",
-			"inCall": true,
-			"noDelete": false,
-			"wwtbam": false
-		},
-		{
 			"id": "7V9uzo",
 			"name": "Box Critters Modding Community<#567030108003631108>",
 			"guild": "567030108003631104",
@@ -59,7 +50,7 @@
 			"name": "funky town<#717791854443364404>",
 			"guild": "717791853864419480",
 			"channel": "717791854443364404",
-			"inCall": false,
+			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
 		}
