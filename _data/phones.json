@@ -62,6 +62,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "nhdAC4",
+			"name": "Box Critters Modding Community<#714853421655523359>",
+			"guild": "567030108003631104",
+			"channel": "714853421655523359",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 11,
