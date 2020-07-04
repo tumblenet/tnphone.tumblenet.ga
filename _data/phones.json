@@ -71,6 +71,15 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "IiuHIG",
+			"name": "Box Critters Modding Community<#567115171961765943>",
+			"guild": "567030108003631104",
+			"channel": "567115171961765943",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
 	"callsMade": 11,
