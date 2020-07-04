@@ -5,7 +5,7 @@
 			"name": "Box Critters Modding Community<#715682268068184104>",
 			"guild": "567030108003631104",
 			"channel": "715682268068184104",
-			"inCall": true,
+			"inCall": false,
 			"noDelete": false,
 			"wwtbam": false
 		},
@@ -17,9 +17,18 @@
 			"inCall": true,
 			"noDelete": false,
 			"wwtbam": false
+		},
+		{
+			"id": "UXm8C8",
+			"name": "Vibe<#427589231179857937>",
+			"guild": "411984375995957248",
+			"channel": "427589231179857937",
+			"inCall": true,
+			"noDelete": false,
+			"wwtbam": false
 		}
 	],
-	"callsMade": 9,
-	"servers": 74,
+	"callsMade": 10,
+	"servers": 75,
 	"currentCalls": 1
 }
